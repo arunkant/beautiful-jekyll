@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: arunkant.com
+title: www.arunkant.com
 
 # Short description of your site
 # description: A virtual proof that I'm awesome
@@ -99,7 +99,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: ""
+google_analytics: "UA-48263499-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -160,10 +160,10 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 kramdown:
